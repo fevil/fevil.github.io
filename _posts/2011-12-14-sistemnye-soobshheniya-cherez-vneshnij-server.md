@@ -3,8 +3,8 @@ id: 284
 title: Системные сообщения через внешний сервер.
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=284
-permalink: /?p=284
+guid: http://fevil.org.ru/sistemnye-soobshheniya-cherez-vneshnij-server
+permalink: /sistemnye-soobshheniya-cherez-vneshnij-server
 robotsmeta:
   - index,follow
 description:
