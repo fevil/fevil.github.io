@@ -3,8 +3,8 @@ id: 31
 title: DES-3526 ввод в эксплуатацию
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=31
-permalink: /?p=31
+guid: http://fevil.org.ru/des-3526-vvod-v-ekspluataciyu
+permalink: /des-3526-vvod-v-ekspluataciyu
 robotsmeta:
   - index,follow
 post_views_count:

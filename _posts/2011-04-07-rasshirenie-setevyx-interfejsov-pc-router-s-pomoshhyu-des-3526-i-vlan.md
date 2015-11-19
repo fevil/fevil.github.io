@@ -4,8 +4,8 @@ title:
   - vlan on debian and des-3526
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=64
-permalink: /?p=64
+guid: http://fevil.org.ru/rasshirenie-setevyx-interfejsov-pc-router-s-pomoshhyu-des-3526-i-vlan
+permalink: /rasshirenie-setevyx-interfejsov-pc-router-s-pomoshhyu-des-3526-i-vlan
 keywords:
   - '802.3ad, DES-3526, d-link, dlink, корпоротивные сети, vlan, настройка vlan, виланы '
 robotsmeta:

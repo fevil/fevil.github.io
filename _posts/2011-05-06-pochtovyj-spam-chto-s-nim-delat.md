@@ -4,8 +4,8 @@ title:
   - История борьбы со спамом
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=156
-permalink: /?p=156
+guid: http://fevil.org.ru/pochtovyj-spam-chto-s-nim-delat
+permalink: /pochtovyj-spam-chto-s-nim-delat
 description:
   - История о том как я впервые столкнулся с боевым почтовым сервером, кучей пользователей почтовые ящики которых были завалены спамом. И как я все это разгрибал
 keywords:

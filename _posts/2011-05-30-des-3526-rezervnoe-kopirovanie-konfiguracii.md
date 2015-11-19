@@ -4,8 +4,8 @@ title:
   - DES-3526 Сохраняем конфигурацию на tftp сервер.
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=227
-permalink: /?p=227
+guid: http://fevil.org.ru/des-3526-rezervnoe-kopirovanie-konfiguracii
+permalink: /des-3526-rezervnoe-kopirovanie-konfiguracii
 robotsmeta:
   - index,follow
 description:

@@ -4,8 +4,8 @@ title: Установка Debian Linux через internet c поднятием 
 author: fevil
 excerpt: 'Решил установить новый Debian 6.0, скачал установочный образ диска debian-6.0.0-i386-netinst.iso, нарезал на диск, загрузился, ставлю систему, потирая руки и возник один нюанс.  Мой провайдер предоставляет широкополосный доступ в интернет, с авторизацией, через соединение по протоколу pppoe. Полез на домашний сайт Debian, почитал руководства, в итоге установил систему, следующим образом'
 layout: post
-guid: http://fevil.org.ru/?p=9
-permalink: /?p=9
+guid: http://fevil.org.ru/ustanovka-debian-linux-cherez-internet-c-podnyatiem-pppoe-soed
+permalink: /ustanovka-debian-linux-cherez-internet-c-podnyatiem-pppoe-soed
 robotsmeta:
   - index,follow
 post_views_count:

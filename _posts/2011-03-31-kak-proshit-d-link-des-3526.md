@@ -3,8 +3,8 @@ id: 55
 title: Как прошить D-link DES-3526 ?
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=55
-permalink: /?p=55
+guid: http://fevil.org.ru/kak-proshit-d-link-des-3526
+permalink: /kak-proshit-d-link-des-3526
 robotsmeta:
   - index,follow
 post_views_count:

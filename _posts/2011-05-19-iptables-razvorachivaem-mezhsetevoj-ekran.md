@@ -3,8 +3,8 @@ id: 217
 title: 'iptables &#8211; разворачиваем межсетевой экран.'
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=217
-permalink: /?p=217
+guid: http://fevil.org.ru/iptables-razvorachivaem-mezhsetevoj-ekran
+permalink: /iptables-razvorachivaem-mezhsetevoj-ekran
 robotsmeta:
   - index,follow
 post_views_count:

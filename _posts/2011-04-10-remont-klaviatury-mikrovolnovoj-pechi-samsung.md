@@ -3,8 +3,8 @@ id: 94
 title: Ремонт клавиатуры микроволновой печи samsung.
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=94
-permalink: /?p=94
+guid: http://fevil.org.ru/remont-klaviatury-mikrovolnovoj-pechi-samsung
+permalink: /remont-klaviatury-mikrovolnovoj-pechi-samsung
 robotsmeta:
   - index,follow
 post_views_count:

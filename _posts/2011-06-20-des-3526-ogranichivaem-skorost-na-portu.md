@@ -3,8 +3,8 @@ id: 256
 title: 'DES-3526 &#8211; Ограничиваем скорость на порту.'
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=256
-permalink: /?p=256
+guid: http://fevil.org.ru/des-3526-ogranichivaem-skorost-na-portu
+permalink: /des-3526-ogranichivaem-skorost-na-portu
 keywords:
   - bandwidth_control, fevil, fevilorgru, DES-3526, d-link
 robotsmeta:

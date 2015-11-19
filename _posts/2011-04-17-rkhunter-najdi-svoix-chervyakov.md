@@ -3,8 +3,8 @@ id: 119
 title: 'rkhunter &#8211; Найди своих червяков'
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=119
-permalink: /?p=119
+guid: http://fevil.org.ru/rkhunter-najdi-svoix-chervyakov
+permalink: /rkhunter-najdi-svoix-chervyakov
 post_views_count:
   - 1
 categories:

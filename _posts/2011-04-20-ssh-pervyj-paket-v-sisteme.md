@@ -4,8 +4,8 @@ title:
   - sshd -Пакет который необходим серверу
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=130
-permalink: /?p=130
+guid: http://fevil.org.ru/ssh-pervyj-paket-v-sisteme
+permalink: /ssh-pervyj-paket-v-sisteme
 description:
   - Описание установки и настройки OpenSSH сервера.
 keywords:

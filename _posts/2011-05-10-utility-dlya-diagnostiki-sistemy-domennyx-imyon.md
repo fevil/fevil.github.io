@@ -4,8 +4,8 @@ title:
   - DNS lookup utility
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=167
-permalink: /?p=167
+guid: http://fevil.org.ru/utility-dlya-diagnostiki-sistemy-domennyx-imyon
+permalink: /utility-dlya-diagnostiki-sistemy-domennyx-imyon
 description:
   - Обзор утилит по тестированию сервера имен.
 keywords:

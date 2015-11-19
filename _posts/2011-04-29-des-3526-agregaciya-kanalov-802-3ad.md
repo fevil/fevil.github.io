@@ -4,8 +4,8 @@ title:
   - Увеличиваем пропускную способность
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=145
-permalink: /?p=145
+guid: http://fevil.org.ru/des-3526-agregaciya-kanalov-802-3ad
+permalink: /des-3526-agregaciya-kanalov-802-3ad
 description:
   - Заметка об агрегации каналов связи.
 keywords:

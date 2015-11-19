@@ -4,8 +4,8 @@ title:
   - 'Интересная функция коммутатора DES-3526 '
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=25
-permalink: /?p=25
+guid: http://fevil.org.ru/reflektometr-v-kommutatore-des-3526
+permalink: /reflektometr-v-kommutatore-des-3526
 description:
   - После обновления прошивки Dlink DES-3526 появилась возможность использовать его как рефлектометр.
 keywords:

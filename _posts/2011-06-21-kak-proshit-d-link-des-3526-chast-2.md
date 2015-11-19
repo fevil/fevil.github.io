@@ -4,8 +4,8 @@ title:
   - DES-3526 прошиваем используя TFTP
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=269
-permalink: /?p=269
+guid: http://fevil.org.ru/kak-proshit-d-link-des-3526-chast-2
+permalink: /kak-proshit-d-link-des-3526-chast-2
 keywords:
   - D-link DES-3526, fevil, системный администратор, download firmware_fromTFTP
 robotsmeta:

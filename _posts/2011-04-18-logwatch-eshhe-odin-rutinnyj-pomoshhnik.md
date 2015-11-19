@@ -3,8 +3,8 @@ id: 124
 title: 'logwatch &#8211; Еще один рутинный помощник'
 author: fevil
 layout: post
-guid: http://fevil.org.ru/?p=124
-permalink: /?p=124
+guid: http://fevil.org.ru/logwatch-eshhe-odin-rutinnyj-pomoshhnik
+permalink: /logwatch-eshhe-odin-rutinnyj-pomoshhnik
 post_views_count:
   - 3
 categories:
