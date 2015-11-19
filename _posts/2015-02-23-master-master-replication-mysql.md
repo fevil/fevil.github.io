@@ -3,8 +3,8 @@ id: 287
 title: Мастер-мастер репликация mysql
 author: fevil
 layout: post
-guid: http://fevil.org.ru/2015-02-23-master-master-replication-mysql
-permalink: /2015-02-23-master-master-replication-mysql
+guid: http://fevil.org.ru/master-master-replication-mysql
+permalink: /master-master-replication-mysql
 custom_retweet_text:
   - 
 categories:
